@@ -4,7 +4,7 @@ license="GNU General Public License v3.0"
 
 [[mods]]
     modId="stabxmodernguns"
-    version="6.2"
+    version="6.3"
     displayName="Stabx Modern Guns"
     authors="Stabilizer King"
     credits="Stabilizer Gaming Studio ,and the Stabx Modding community server"
@@ -25,13 +25,13 @@ license="GNU General Public License v3.0"
 [[dependencies.stabxmodernguns]]
     modId="cgm"
     mandatory=true
-    versionRange="[1.3.3,)"
+    versionRange="[1.3.7,)"
     ordering="NONE"
     side="BOTH"
 [[dependencies.stabxmodernguns]]
     modId="framework"
     mandatory=true
-    versionRange="[0.4.2,)"
+    versionRange="[0.6.16,)"
     ordering="NONE"
     side="BOTH"
 
