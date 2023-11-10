@@ -1,6 +1,7 @@
 modLoader="javafml"
 loaderVersion="[43,)"
 license="GNU General Public License v3.0"
+issueTrackerURL="https://github.com/Stabilizer360/Stabx_Modern_Guns_1.19.4/issues"
 
 [[mods]]
     modId="stabxmodernguns"
