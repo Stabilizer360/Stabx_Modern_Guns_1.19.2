@@ -4,11 +4,13 @@ license="GNU General Public License v3.0"
 
 [[mods]]
     modId="stabxmodernguns"
-    version="6.3"
+    version="7.0"
     displayName="Stabx Modern Guns"
     authors="Stabilizer King"
     credits="Stabilizer Gaming Studio ,and the Stabx Modding community server"
     description="Addon for Mr.Crayfish's gun mod adding High Quality Guns With Amazing Sounds"
+    updateJSONURL="https://raw.githubusercontent.com/Stabilizer360/Stabx_Modern_Guns_1.19.2/master/src/main/stabilizerking/version_checker/update.json"
+    displayURL="https://www.curseforge.com/minecraft/mc-mods/stabx-modern-guns"
 
 [[dependencies.stabxmodernguns]]
     modId="forge"
